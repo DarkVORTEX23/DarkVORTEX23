@@ -1,10 +1,8 @@
-# 🌀 Welcome to the Vortex | Hassan (aka Dark Vortex) 
+# 🌀 Welcome to the Vortex | Hassan (aka Dark Vortex) 👋
 
 <p align="center">
-  <!-- Dynamic Hacker Typing Animation Banner -->
-  <a href="https://github.com">
-    <img src="https://herokuapp.com;" alt="Typing SVG" />
-  </a>
+  <!-- Dynamic Typing Animation Banner -->
+  <img src="https://herokuapp.com;" alt="Dark Vortex Banner" />
 </p>
 
 
@@ -30,14 +28,9 @@ A passionate **Cyber Security Expert** and **Ethical Hacker** dedicated to findi
 
 ### 📊 Real-time Cyber Stats & Activity Graphs
 <p align="center">
-  <!-- Standard GitHub Stats Card -->
+  <!-- Fixed GitHub Stats Card -->
   <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
   
-  <!-- Language Distribution Card -->
+  <!-- Fixed Language Distribution Card -->
   <img src="https://vercel.app" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Commits Activity Streak Card -->
-  <img src="https://herokuapp.com" width="100%" alt="GitHub Streak" />
 </p>
