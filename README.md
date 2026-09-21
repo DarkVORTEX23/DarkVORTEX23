@@ -41,6 +41,3 @@ A passionate **Cyber Security Expert** and **Ethical Hacker** dedicated to findi
   <img src="https://vercel.app" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://herokuapp.com" width="100%" />
-</p>
