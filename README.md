@@ -1,16 +1,19 @@
 # 🌀 Welcome to the Vortex | Hassan (aka Dark Vortex) 
 
-========================================================================
-[▲] ACCESS GRANTED // PROFILE: DarkVORTEX23 // ROLE: CYBER SECURITY EXPERT
-========================================================================
+<p align="center">
+  <!-- Dynamic Hacker Typing Animation Banner -->
+  <a href="https://github.com">
+    <img src="https://herokuapp.com;" alt="Typing SVG" />
+  </a>
+</p>
+
 
 ### 🛡️ About Me
 A passionate **Cyber Security Expert** and **Ethical Hacker** dedicated to finding system vulnerabilities, monitoring networks, and breaking security baselines to build safer applications.
 
-* 🔭 **Focus Areas:** Penetration Testing | Web Application Security | Vulnerability Assessment
-* 🎓 **Currently Learning:** DevSecOps automation, Advanced Linux, and Cryptography
-* 💬 **Ask me about:** Ethical Hacking, Linux, Bash, Network Analysis
-* ⚡ **Motto:** Secure the code, protect the net.
+- 🔬 **Focus:** Penetration Testing, Web App Security, and Vulnerability Assessment.
+- 🎓 **Currently Learning:** DevSecOps automation, Advanced Linux, and Cryptography.
+- 💬 **Ask me about:** Ethical Hacking, Linux, Bash, Network Analysis.
 
 ---
 
@@ -25,11 +28,16 @@ A passionate **Cyber Security Expert** and **Ethical Hacker** dedicated to findi
 
 ---
 
-### 🤝 Connect With Me
-* **LinkedIn:** [://linkedin.com](https://linkedin.com)
-* **TryHackMe:** [://tryhackme.com](https://tryhackme.com)
+### 📊 Real-time Cyber Stats & Activity Graphs
+<p align="center">
+  <!-- Standard GitHub Stats Card -->
+  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
+  
+  <!-- Language Distribution Card -->
+  <img src="https://vercel.app" width="48%" alt="Top Languages" />
+</p>
 
----
-[+] System Status: Active 
-[+] Contributions: Tracking...
-========================================================================
+<p align="center">
+  <!-- Commits Activity Streak Card -->
+  <img src="https://herokuapp.com" width="100%" alt="GitHub Streak" />
+</p>
