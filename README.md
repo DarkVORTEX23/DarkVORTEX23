@@ -1,26 +1,16 @@
-# DARK-VORTEX
- Welcome to my professional cyber security portfolio! Operating under the alias Dark Vortex.
-# 🌀 Welcome to the Vortex | I'm Hassan (aka Dark Vortex) 👋
+# 🌀 Welcome to the Vortex | Hassan (aka Dark Vortex) 
 
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
-</p>
+========================================================================
+[▲] ACCESS GRANTED // PROFILE: DarkVORTEX23 // ROLE: CYBER SECURITY EXPERT
+========================================================================
 
 ### 🛡️ About Me
 A passionate **Cyber Security Expert** and **Ethical Hacker** dedicated to finding system vulnerabilities, monitoring networks, and breaking security baselines to build safer applications.
 
-- 🔭 **Focus:** Penetration Testing, Web App Security, and Vulnerability Assessment.
-- 🎓 **Currently Learning:** DevSecOps automation, Advanced Linux, and Cryptography.
-- 💬 **Ask me about:** Ethical Hacking, Linux, Bash, Network Analysis.
-- ⚡ **Motto:** Securing the code, protecting the net.
-
----
-
-### ⚙️ Connect With Me
-<p align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" /></a>
-  <a href="https://tryhackme.com" target="_blank"><img src="https://shields.io" /></a>
-</p>
+* 🔭 **Focus Areas:** Penetration Testing | Web Application Security | Vulnerability Assessment
+* 🎓 **Currently Learning:** DevSecOps automation, Advanced Linux, and Cryptography
+* 💬 **Ask me about:** Ethical Hacking, Linux, Bash, Network Analysis
+* ⚡ **Motto:** Secure the code, protect the net.
 
 ---
 
@@ -35,9 +25,11 @@ A passionate **Cyber Security Expert** and **Ethical Hacker** dedicated to findi
 
 ---
 
-### 📊 Real-time Cyber Stats
-<p align="center">
-  <img src="https://vercel.app" width="48%" />
-  <img src="https://vercel.app" width="48%" />
-</p>
+### 🤝 Connect With Me
+* **LinkedIn:** [://linkedin.com](https://linkedin.com)
+* **TryHackMe:** [://tryhackme.com](https://tryhackme.com)
 
+---
+[+] System Status: Active 
+[+] Contributions: Tracking...
+========================================================================
